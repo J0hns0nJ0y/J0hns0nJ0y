@@ -1,15 +1,8 @@
-[![](https://raw.githubusercontent.com/J0hns0nJ0y/J0hns0nJ0y/master/profile_light.gif)](https://johnsonjoy.vercel.app/)<!-- If you want the template for my gif, email me! -->
-<div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=J0hns0nJ0y.J0hns0nJ0y&right_color=orange&left_text=STALKERS"  />
-</div>
+| [![portfolio](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnsonjoycs)          | ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=J0hns0nJ0y.J0hns0nJ0y&right_color=blue&left_text=VIEWERS)                                                         |
+| ----------------- | ------------------------------------------------------------------ |
 
-Hey There,
+[![](https://raw.githubusercontent.com/J0hns0nJ0y/J0hns0nJ0y/master/download.gif)](https://johnsonjoy.vercel.app/)<!-- If you want the template for my gif, email me! -->
 
-If you are seeing this, then you seem to be intrested. Well, I am Johnson Sequeira, a young fellow who is into Data Analytics and Hacking. 
-
-
-
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
 
 | 💗 Languages I Know           | 😎 Confidence Rate                                                               |
 | ----------------- | ------------------------------------------------------------------ |
@@ -18,7 +11,7 @@ If you are seeing this, then you seem to be intrested. Well, I am Johnson Sequei
 | R Programming | ⭐⭐⭐ |
 | Javascript, PHP, C++ | ⭐⭐ |
 
-## Featured Projects
+
 
 |💗 Projects           | 😎 Link                                                               |
 | ----------------- | ------------------------------------------------------------------ |
