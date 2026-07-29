@@ -2,7 +2,9 @@
 | [![portfolio](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnsonjoycs)          | ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=J0hns0nJ0y.J0hns0nJ0y&right_color=blue&left_text=VIEWERS)                                                         |
 | ----------------- | ------------------------------------------------------------------ |
 
-[![](https://raw.githubusercontent.com/J0hns0nJ0y/J0hns0nJ0y/master/download.gif)](https://johnsonjoy.vercel.app/)<!-- If you want the template for my gif, email me! -->
+[![](https://raw.githubusercontent.com/J0hns0nJ0y/J0hns0nJ0y/master/download.gif)](https://johnsonjoy.vercel.app/)
+
+---
 <div align="center">
 
 | 💗 Languages I Know           | 😎 Confidence Rate                                                               |
@@ -22,16 +24,16 @@
 
 </div>
 
+---
 <p align="center">
   <a href="https://www.youtube.com/@YOUR_CHANNEL">
-    <img src="https://raw.githubusercontent.com/J0hns0nJ0y/J0hns0nJ0y/master/download.gif" width="60" alt="YouTube"/>
+    <img src="https://raw.githubusercontent.com/J0hns0nJ0y/J0hns0nJ0y/master/yt_logo.png" width="200" alt="YouTube"/>
   </a> 
 </p>
-
-
+<p align="center">Feel Free To Support The Channel If You Like My Content 💗</p>
 <p align="center">
   <a href="https://youtu.be/BeukGRE0L6c">
-    <img src="https://utfs.io/f/nGnSqDveMsqxxSyMVNIqfSPsgnJuXbLRFYCxAEQOehjq7o96" width="30%" alt="Video 1">
+    <img src="https://utfs.io/f/nGnSqDveMsqxxSyMVNIqfSPsgnJuXbLRFYCxAEQOehjq7o96" width="30%" alt="Video 1" >
   </a>
   <a href="https://youtu.be/3coXacu6eEw">
     <img src="https://utfs.io/f/nGnSqDveMsqxOac9LO0k5fKEn2LbBoPAuZ6XMTHDcNJ0QiG1" width="30%" alt="Video 2">
