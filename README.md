@@ -38,5 +38,8 @@
   <a href="https://youtu.be/3coXacu6eEw">
     <img src="https://utfs.io/f/nGnSqDveMsqxOac9LO0k5fKEn2LbBoPAuZ6XMTHDcNJ0QiG1" width="30%" alt="Video 2">
   </a>
+  <a href="https://youtu.be/N4oT6hJNYVM">
+    <img src="https://i.ytimg.com/vi/N4oT6hJNYVM/maxresdefault.jpg" width="30%" alt="Video 3">
+  </a>
 </p>
 
