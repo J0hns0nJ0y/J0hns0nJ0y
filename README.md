@@ -2,7 +2,7 @@
 | [![portfolio](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnsonjoycs)          | ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=J0hns0nJ0y.J0hns0nJ0y&right_color=blue&left_text=VIEWERS)                                                         |
 | ----------------- | ------------------------------------------------------------------ |
 
-[![](https://raw.githubusercontent.com/J0hns0nJ0y/J0hns0nJ0y/master/download.gif)](https://johnsonjoy.vercel.app/)
+[![](https://raw.githubusercontent.com/J0hns0nJ0y/J0hns0nJ0y/master/johnsonjs.gif)](https://johnsonjoy.vercel.app/)
 
 ---
 <div align="center">
