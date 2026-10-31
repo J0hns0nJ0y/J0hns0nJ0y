@@ -17,10 +17,10 @@
 
 |💗 Projects           | 😎 Link                                                               |
 | ----------------- | ------------------------------------------------------------------ |
+| ![AFD](https://img.shields.io/badge/PHEROMONE-blue?logo=github&logoColor=black) | https://github.com/J0hns0nJ0y/Pheromone |
 | ![AFD](https://img.shields.io/badge/AUTO_FILL_DANDER-blue?logo=github&logoColor=black) | https://github.com/J0hns0nJ0y/AutoFillDanger |
 | ![MGS](https://img.shields.io/badge/1MG_SCRAPER-blue?logo=github&logoColor=black)| https://github.com/J0hns0nJ0y/1mgcomscraper |
 | ![BD](https://img.shields.io/badge/BUSINESS_DASHBOARD-blue?logo=github&logoColor=black) | https://tbhanalyticsdashboard.streamlit.app |
-| ![PF](https://img.shields.io/badge/PORTFOLIO-blue?logo=github&logoColor=black) | https://johnsonjoy.vercel.app |
 
 </div>
 
